@@ -29,6 +29,9 @@ Submissions are evaluated using Accuracy Score
   <img src="https://dphi-courses.s3.ap-south-1.amazonaws.com/Datathons/accuracy_score.png" width="350" title="hover text">
 </p>
 
+## My Submission
+
+I stood at 14th Position out of 253 submissions with an accuracy of 97.07%.
 
 
 
